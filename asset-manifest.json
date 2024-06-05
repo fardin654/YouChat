@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/YouChat/static/css/main.9246e5a0.css",
+    "main.js": "/YouChat/static/js/main.4598654b.js",
+    "static/media/robot.gif": "/YouChat/static/media/robot.0617a41936621e9697cd.gif",
+    "static/media/loader.gif": "/YouChat/static/media/loader.b40fc3d91ff1f4db53e2.gif",
+    "static/media/logo.svg": "/YouChat/static/media/logo.ccfbd90732828204fa6989c0f15638c0.svg",
+    "index.html": "/YouChat/index.html",
+    "main.9246e5a0.css.map": "/YouChat/static/css/main.9246e5a0.css.map",
+    "main.4598654b.js.map": "/YouChat/static/js/main.4598654b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9246e5a0.css",
+    "static/js/main.4598654b.js"
+  ]
+}
